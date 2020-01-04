@@ -2,6 +2,8 @@
 
 Open source API to be used to get Rainbow Six Siege User Information.
 
+Currently using the R6Stats API V2
+
 ## Usage
 
 (url)/api/rank/:username/:platform/:type
